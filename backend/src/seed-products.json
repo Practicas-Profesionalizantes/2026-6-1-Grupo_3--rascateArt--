@@ -1,0 +1,202 @@
+[
+  {
+    "nombre": "Tobogán Cilíndrico",
+    "precio": 57900,
+    "descuento": 0,
+    "coleccion": "Rascadores",
+    "imagen": "",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Doble Rampa",
+    "precio": 61700,
+    "descuento": 0,
+    "coleccion": "Rascadores",
+    "imagen": "",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Dúo Tobogán",
+    "precio": 61700,
+    "descuento": 0,
+    "coleccion": "Rascadores",
+    "imagen": "",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Torre Alta",
+    "precio": 84300,
+    "descuento": 10,
+    "coleccion": "Rascadores",
+    "imagen": "",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Doble Pompón",
+    "precio": 43500,
+    "descuento": 0,
+    "coleccion": "Rascadores",
+    "imagen": "",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Escalera Real",
+    "precio": 98300,
+    "descuento": 0,
+    "coleccion": "Rascadores",
+    "imagen": "",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Doble Nivel Premium",
+    "precio": 112500,
+    "descuento": 15,
+    "coleccion": "Premium",
+    "imagen": "",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Modelo 4 Plus",
+    "precio": 91300,
+    "descuento": 0,
+    "coleccion": "Rascadores",
+    "imagen": "",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Cucha XL Cat",
+    "precio": 133500,
+    "descuento": 10,
+    "coleccion": "Premium",
+    "imagen": "",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Triple Plataforma",
+    "precio": 191380,
+    "descuento": 15,
+    "coleccion": "Premium",
+    "imagen": "",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Mansión Felina",
+    "precio": 230300,
+    "descuento": 20,
+    "coleccion": "Premium",
+    "imagen": "",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Poste Básico",
+    "precio": 35000,
+    "descuento": 0,
+    "coleccion": "Rascadores",
+    "imagen": "",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Nido Triple Premium",
+    "precio": 142000,
+    "descuento": 10,
+    "coleccion": "Premium",
+    "imagen": "",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Castillo Imperial",
+    "precio": 232000,
+    "descuento": 20,
+    "coleccion": "Premium",
+    "imagen": "",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Caña Ratón con Plumas",
+    "precio": 12000,
+    "descuento": 0,
+    "coleccion": "Juguetes",
+    "imagen": "/img/cana-raton.webp",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Pelota Cascabel",
+    "precio": 8000,
+    "descuento": 0,
+    "coleccion": "Juguetes",
+    "imagen": "/img/pelota-cascabel.webp",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Pelota Interactiva",
+    "precio": 9500,
+    "descuento": 0,
+    "coleccion": "Juguetes",
+    "imagen": "/img/pelota-interactiva.webp",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Pelotas Tejidas",
+    "precio": 10000,
+    "descuento": 0,
+    "coleccion": "Juguetes",
+    "imagen": "/img/pelotas-tejidas.webp",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Ratón con Plumas Gris",
+    "precio": 6000,
+    "descuento": 0,
+    "coleccion": "Juguetes",
+    "imagen": "/img/raton-plumas-gris.webp",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Ratón con Plumas Rojo",
+    "precio": 6000,
+    "descuento": 0,
+    "coleccion": "Juguetes",
+    "imagen": "/img/raton-plumas-rojo.webp",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Ratón Tejido Gris",
+    "precio": 10000,
+    "descuento": 0,
+    "coleccion": "Juguetes",
+    "imagen": "/img/raton-tejido-gris.webp",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Ratones Genéricos",
+    "precio": 5000,
+    "descuento": 0,
+    "coleccion": "Juguetes",
+    "imagen": "/img/ratones.webp",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Rascador Ola",
+    "precio": 25000,
+    "descuento": 5,
+    "coleccion": "Juguetes",
+    "imagen": "",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Rascador Plano con Pelotas",
+    "precio": 18000,
+    "descuento": 0,
+    "coleccion": "Juguetes",
+    "imagen": "",
+    "descripcion": ""
+  },
+  {
+    "nombre": "Torre Juguete Triple",
+    "precio": 15000,
+    "descuento": 0,
+    "coleccion": "Juguetes",
+    "imagen": "",
+    "descripcion": ""
+  }
+]
